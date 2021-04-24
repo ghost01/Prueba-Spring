@@ -53,7 +53,8 @@ public class Product implements Serializable{
 	public void setMarca(String marca) {
 		this.marca = marca;
 	}
-
+	
+	
 	public String getValor() {
 		return valor;
 	}
@@ -71,10 +72,7 @@ public class Product implements Serializable{
 		
 	}
 
-
 	
-	
-	
-	}
+}
 	
 	
