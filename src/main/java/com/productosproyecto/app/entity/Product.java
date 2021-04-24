@@ -23,6 +23,7 @@ public class Product implements Serializable{
 	@Column(length = 50)
 	private String producto;
 	
+	@Column(length = 20)
 	private String marca;
 	
 	@Column(length = 20)
